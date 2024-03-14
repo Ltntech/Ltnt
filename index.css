@@ -1,0 +1,74 @@
+.logo {
+    position: absolute;
+    left:5%;
+    top:10%;
+    border: 0% none;
+    border-radius: 7%;
+    width:8%;
+}
+
+body {
+    background-color: black;
+}
+
+.text {
+    font-family:sans-serif;
+    color:white;
+    position: absolute;
+    text-align: left;
+    top:25%;
+    left:8rem;
+    font-size: 2em;
+}
+
+.aboutltnt {
+    color:white;
+    font-family:sans-serif;
+    position: absolute;
+    text-align: center;
+    font-size: 200%;  
+    left:45%;
+    top:10%;
+}
+
+.about {
+    color:white; 
+    font-family: "Lucida Console", "Courier New", monospace;
+    position: absolute;
+    text-align: center;
+    bottom: 70%;
+    left:22%;
+    font-size: 120%;
+}
+
+.github {
+    color:white;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 175%;
+    position: absolute;
+    left:6.5%;
+    top:37%;
+    transition: 0.1s;
+    opacity: 1;
+}
+
+.github:hover {
+    color:white;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 175%;
+    position: absolute;
+    left:6.5%;
+    top:37%;
+    opacity: 0.5;
+}
+
+.hate {
+    color: white;
+    position: absolute;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 1.2rem;
+    top:30%;
+    left:27%;
+}
